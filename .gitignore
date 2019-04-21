@@ -1,0 +1,12 @@
+*.class
+*.txt
+*.png
+*.iml
+*.zip
+./*.pdf
+.idea/
+.lift/
+codestyles/
+Lecture Slides/
+Week 1/CREDITS
+META-INF/
